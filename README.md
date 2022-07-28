@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gopinath
 - 👀 I’m interested in Learning new things and Explore as much as possible
-- 🌱 I’m currently learning Data Structures, Algorithm and React
+- 🌱 I’m currently learning Full Stack Web Development and React
 
 - 📫 How to reach me gvarad2001@gmail.com
 
